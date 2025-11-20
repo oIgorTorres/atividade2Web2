@@ -9,9 +9,6 @@ Este projeto é educacional voltado para o aprendizado de:
 
 - ## 🛠️ Tecnologias Utilizadas
 
-
-| Categoria | Ferramenta |
-|------------|-------------|
 PHP 8+
 MySQL / MariaDB
 HTML5 e CSS3
