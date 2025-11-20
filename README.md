@@ -1,6 +1,6 @@
 ## 🧠 Sobre o Projeto
 
-Este projeto é educacional voltado para o aprendizado de:
+Este é uma base para projetos educacionais voltado para o aprendizado de:
 
 - Funções de arrays
 - Linguagem Php
